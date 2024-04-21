@@ -1,0 +1,15 @@
+.env
+airflow/utils/config.conf
+.terraform
+terraform/terraform.tfstate
+terraform/.terraform
+terraform/.terraform.lock.hcl
+terrform/.terraform.tfstate.lock.info
+logs/
+db/
+outs/
+**/__pycache__/
+terraform/*
+!terraform/main.tf
+!terraform/output.tf
+!terraform/variable.tf

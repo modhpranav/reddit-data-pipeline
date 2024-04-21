@@ -1,0 +1,7 @@
+utils/config.conf
+.env
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfvars
+.terraform
+.terraform.lock.hcl
