@@ -80,6 +80,16 @@ To destroy the AWS resources created by Terraform:
 
 This will remove all the resources created for this project.
 
+
+## PowerBI Dashboard 
+https://app.powerbi.com/groups/me/reports/e3e40765-b9d5-4d8c-b8dc-183fd08a3f31/ReportSection?experience=power-bi
+
+## PowerBI Dashboard:
+https://github.com/modhpranav/dbt-analytics/assets/47596415/54a40280-eb52-4bfe-9c1a-dbec80577c26
+
+## Data Pipeline
+https://github.com/modhpranav/reddit-data-pipeline/assets/47596415/09df4b23-2d7b-4cec-8851-93cdfbeffac9
+
 ## Notes and Considerations
 
 - Ensure you have proper permissions to create and manage AWS resources.
@@ -93,10 +103,4 @@ This will remove all the resources created for this project.
 ## Contributing and Feedback
 
 Contributions are welcome! If you'd like to contribute, please submit a pull request. For issues or questions, open an issue in the GitHub repository.
-
-## PowerBI Dashboard 
-https://app.powerbi.com/groups/me/reports/e3e40765-b9d5-4d8c-b8dc-183fd08a3f31/ReportSection?experience=power-bi
-
-## PowerBI Dashboard:
-https://github.com/modhpranav/dbt-analytics/assets/47596415/54a40280-eb52-4bfe-9c1a-dbec80577c26
 
